@@ -1,0 +1,126 @@
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\source\repos\MMM\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\GitHub\ClicSoftware\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\YatriP\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\Documents\GitHub\clic\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\YatriP\Calgary Drop-In & Rehab Centre Society\Student_IT-Sheila Zhao - CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\Edinson\OneDrive - Calgary Drop-In & Rehab Centre Society\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\Zhao\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\Zhao\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\Zhao\Downloads\CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\Zhao\Downloads\CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\YatriP\OneDrive - Calgary Drop-In & Rehab Centre Society\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\ShielaZ\Calgary Drop-In & Rehab Centre Society\Student_IT-Yatri Patel - Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.exe
+C:\Student_IT-yatri- CLICC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.exe
+C:\Student_IT-yatri- CLICC\CLICDB\obj\Debug\CLICDB.pdb
+C:\Users\Zhao\Documents\CLIC\CLICDB\bin\Debug\CLICDB.exe.config
+C:\Users\Zhao\Documents\CLIC\CLICDB\bin\Debug\CLICDB.exe
+C:\Users\Zhao\Documents\CLIC\CLICDB\bin\Debug\CLICDB.pdb
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.csprojAssemblyReference.cache
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.Properties.Resources.resources
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.csproj.GenerateResource.cache
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.csproj.CoreCompileInputs.cache
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.exe
+C:\Users\Zhao\Documents\CLIC\CLICDB\obj\Debug\CLICDB.pdb
