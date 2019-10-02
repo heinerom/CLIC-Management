@@ -1,5 +1,6 @@
 # CLIC-Management
 This repo is a collection of Application and Sql database for Calgary Drop-In Centre.
+There is a program called Computers for Low Income Calgarians in Calgary Drop-In Centre. Its purpose is to provide computers for low income people to looking for jobs/continue study with the computer. This application can collect clients' applications, modify their requests and information, check inventories and print out a report. 
 ## Getting started
 This instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites
